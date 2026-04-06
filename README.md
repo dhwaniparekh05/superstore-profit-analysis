@@ -18,12 +18,13 @@ Uncovered $17K in losses, identified discount abuse, and segmented 793 customers
 - Tableau Public
 
 ## Project Structure
+```
 superstore-profit-analysis/
 ├── data/
 │   └── Sample - Superstore.csv
 ├── Superstore_Analytics_Clean.ipynb
 └── README.md
-
+```
 ## Dashboard
 Live interactive Tableau dashboard: https://public.tableau.com/views/SuperstoreProfitAnalysis_17754323283590/SuperstoreProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
